@@ -4,7 +4,7 @@ A real-time stock analysis and RSI-based trading signal dashboard built using Py
 
 ## 🚀 Live Dashboard
 
-Check out the live version on Streamlit: [FinSight Engine Dashboard](https://finsight-engine.streamlit.app)
+Check out the live version on Streamlit: [FinSight Engine Dashboard](https://qcxhlhjp7peaxb5v6tpygr.streamlit.app/)
 
 ## 🔧 Features
 
