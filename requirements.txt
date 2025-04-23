@@ -1,4 +1,6 @@
 streamlit
 pandas
 requests
-plotly
+matplotlib
+numpy
+alpha_vantage
